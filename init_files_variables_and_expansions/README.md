@@ -10,4 +10,6 @@
 
 ./5-local_variables -  Lists all local variables and environment variables, and functions.
 
-./6-6-create_local_variable - Creates a new local variable. Name: BEST. Value: School
+./6-create_local_variable - Creates a new local variable. Name: BEST. Value: School
+
+./7-create_global_variable - Creates a new global variable.
