@@ -23,3 +23,5 @@
 ./11-binary_to_decimal - Converts a number (BINARY) from base 2 to base 10.
 
 ./12-combinations - Prints all possible combinations of two letters, except oo.
+
+./13-print_float -  Prints a number (NUM) with two decimal places.
